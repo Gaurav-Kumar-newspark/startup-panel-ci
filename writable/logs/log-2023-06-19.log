@@ -1,0 +1,947 @@
+ERROR - 2023-06-19 12:43:11 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:43:11 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:43:22 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:43:22 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:46:18 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:46:18 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:46:30 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:46:30 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:46:34 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:46:34 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:46:37 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:46:37 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:46:44 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:46:44 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:46:49 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:46:49 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:46:55 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:46:55 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:47:08 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:47:08 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:47:12 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:47:12 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:47:16 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:47:16 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:47:28 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:47:28 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:47:39 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:47:39 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:47:45 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:47:45 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:47:59 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:47:59 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:48:15 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:48:15 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:48:42 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:48:42 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:48:49 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:48:49 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:49:00 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:49:00 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:49:46 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:49:46 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:50:47 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:50:47 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:50:55 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:50:55 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:51:19 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:51:19 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:51:37 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:51:37 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:51:40 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:51:40 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:52:44 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:52:44 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:52:48 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:52:48 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:54:56 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:54:56 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:55:24 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:55:24 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:55:29 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:55:29 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:55:45 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:55:45 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:56:11 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:56:11 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:58:37 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:58:37 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 12:59:52 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 12:59:52 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:01:30 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:01:30 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:02:00 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:02:00 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:02:05 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:02:05 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:02:36 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:02:36 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:06:49 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:06:49 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:06:53 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:06:53 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:06:56 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:06:56 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:06:59 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:06:59 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:07:10 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:07:10 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:07:19 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:07:19 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:07:29 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:07:29 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:08:46 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:08:46 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:10:05 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:10:05 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:10:08 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:10:08 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:10:17 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:10:17 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:10:21 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:10:21 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:10:24 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:10:24 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:10:27 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:10:27 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:10:41 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:10:41 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:10:54 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:10:54 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:10:59 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:10:59 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:11:08 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:11:08 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:11:16 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:11:16 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:11:38 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:11:38 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:14:04 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:14:04 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:14:08 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:14:08 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:14:10 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:14:10 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:14:13 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:14:13 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:14:16 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:14:16 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:14:19 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:14:19 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:15:45 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:15:45 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:15:54 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:15:54 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:16:07 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:16:07 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:16:44 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:16:44 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:16:49 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:16:49 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:17:34 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:17:34 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:18:28 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:18:28 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:31:23 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:31:23 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:31:28 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:31:28 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:31:32 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:31:32 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:31:36 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:31:36 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:32:26 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:32:26 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:32:30 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:32:30 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:32:34 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:32:34 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:32:37 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:32:37 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:32:40 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:32:40 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:32:44 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:32:44 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:32:48 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:32:48 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:33:05 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:33:05 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:36:22 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:36:22 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:36:26 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:36:26 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:36:29 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:36:29 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:36:42 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:36:42 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:37:24 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:37:24 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:37:37 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:37:37 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:37:53 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:37:53 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:38:13 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:38:13 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:49:37 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:49:37 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 13:50:59 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 13:50:59 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 14:01:53 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 14:01:53 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 14:52:26 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 14:52:26 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 14:52:29 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 14:52:29 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 14:52:47 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 14:52:47 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-06-19 15:08:11 --> Class 'App\Controllers\Addviewableratemodel' not found
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(802): App\Controllers\Api->__construct()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-06-19 15:08:11 --> Class 'App\Controllers\Addviewableratemodel' not found
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(802): App\Controllers\Api->__construct()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-06-19 15:08:12 --> Class 'App\Controllers\Addviewableratemodel' not found
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(802): App\Controllers\Api->__construct()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-06-19 15:08:12 --> Class 'App\Controllers\Addviewableratemodel' not found
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(802): App\Controllers\Api->__construct()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-06-19 15:08:13 --> Class 'App\Controllers\Addviewableratemodel' not found
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(802): App\Controllers\Api->__construct()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-06-19 15:08:13 --> Class 'App\Controllers\Addviewableratemodel' not found
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(802): App\Controllers\Api->__construct()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-06-19 15:08:13 --> Class 'App\Controllers\Addviewableratemodel' not found
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(802): App\Controllers\Api->__construct()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 15:09:38 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 15:09:38 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 15:10:10 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 15:10:10 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 15:10:27 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 15:10:27 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 15:10:34 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 15:10:34 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 15:10:38 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 15:10:38 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 15:10:41 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 15:10:41 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 15:10:48 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 15:10:48 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 15:10:51 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 15:10:51 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 15:10:57 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 15:10:57 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 15:11:02 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 15:11:02 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 15:11:05 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 15:11:05 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 15:11:09 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 15:11:09 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 15:11:12 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 15:11:12 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 15:18:49 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 15:18:49 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-06-19 16:44:11 --> syntax error, unexpected end of file
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(790): class_exists()
+#5 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-06-19 16:44:11 --> syntax error, unexpected end of file
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(790): class_exists()
+#5 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2023-06-19 16:57:58 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 16:57:58 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 16:58:25 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 16:58:25 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 16:58:44 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 16:58:44 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 16:59:30 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 16:59:30 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 16:59:37 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 16:59:37 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 17:00:08 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 17:00:08 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 17:00:18 --> Unknown column 'setting' in 'where clause'
+ERROR - 2023-06-19 17:00:20 --> Unknown column 'setting' in 'where clause'
+ERROR - 2023-06-19 17:00:21 --> Unknown column 'setting' in 'where clause'
+ERROR - 2023-06-19 17:33:25 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 17:33:25 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 17:42:56 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 17:42:56 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 17:43:25 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 17:43:25 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 17:44:38 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 17:44:38 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 17:44:41 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 17:44:41 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 17:44:41 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 17:44:41 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 17:45:20 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 17:45:20 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-06-19 17:47:57 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-19 17:47:57 --> Call to a member function getResultArray() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

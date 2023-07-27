@@ -1,0 +1,175 @@
+ERROR - 2023-06-01 10:03:36 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:05:08 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:05:47 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:06:00 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:06:03 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:06:05 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:08:18 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:09:41 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:17:48 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:24:52 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:26:39 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:27:14 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:35:11 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-01 10:35:21 --> Undefined index: macaddress
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/Api.php(650): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-06-01 10:36:04 --> Undefined index: macaddress
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/Api.php(650): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-06-01 10:37:15 --> Undefined index: macaddress
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/Api.php(650): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-06-01 10:37:37 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:38:35 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-01 10:39:04 --> Undefined index: macaddress
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/Api.php(650): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-06-01 10:43:12 --> Undefined index: macaddress
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/Api.php(650): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-06-01 10:44:32 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:46:01 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-01 10:46:14 --> Undefined index: macaddress
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/Api.php(650): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-06-01 10:46:37 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:47:31 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:52:06 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:55:26 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-01 10:56:02 --> Undefined index: macaddress
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/Api.php(650): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-06-01 10:59:30 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:59:38 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 10:59:55 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-01 11:00:12 --> Undefined index: macaddress
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/Api.php(650): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-06-01 11:07:43 --> Undefined index: macaddress
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/Api.php(650): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-06-01 11:09:31 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 11:11:55 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 11:12:10 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 11:16:56 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-01 11:17:13 --> Undefined index: macaddress
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/Api.php(650): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-06-01 11:19:27 --> Undefined index: macaddress
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/Api.php(650): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-06-01 11:19:55 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-01 11:20:12 --> Undefined index: macaddress
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/Api.php(650): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-06-01 11:21:54 --> Undefined index: macaddress
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/Api.php(650): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Api->api()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-06-01 11:26:13 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 11:40:43 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 11:41:37 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 11:42:43 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 11:42:44 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 11:42:54 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 11:43:54 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 11:49:59 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 11:50:08 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 11:53:24 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 11:54:11 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 11:54:46 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 12:00:29 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 12:02:08 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 12:09:34 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 13:30:23 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 13:30:35 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 15:03:01 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 15:03:53 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 15:03:57 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 15:09:06 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 15:09:06 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 15:20:43 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 15:22:55 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 15:25:27 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 15:25:39 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 15:25:50 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 15:26:45 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 15:29:11 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 15:59:10 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 16:02:28 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 16:03:24 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 16:04:01 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 16:06:51 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 16:16:11 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 16:18:20 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 16:20:13 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 16:30:33 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 16:31:36 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 16:32:33 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 16:39:08 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 16:40:20 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 16:46:03 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 16:47:52 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-01 17:32:04 --> Unknown column 'text' in 'field list'
+CRITICAL - 2023-06-01 18:49:33 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(790): class_exists()
+#5 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

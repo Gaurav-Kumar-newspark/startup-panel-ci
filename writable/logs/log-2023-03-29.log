@@ -1,0 +1,14 @@
+ERROR - 2023-03-29 15:28:52 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to smtp.gmail.com:587 (Connection timed out)
+ERROR - 2023-03-29 15:45:41 --> MySQL server has gone away
+CRITICAL - 2023-03-29 15:45:41 --> Call to a member function getResult() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/BaseController.php(233): App\Models\Generalsettingsmodel->getaddgeneralsettings()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Views/login.php(8): App\Controllers\BaseController->getglobalstoredsettings()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/View/View.php(210): include('/var/www/vhosts...')
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/Common.php(1089): CodeIgniter\View\View->render()
+#5 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/Login.php(324): view()
+#6 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Login->login()
+#7 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}

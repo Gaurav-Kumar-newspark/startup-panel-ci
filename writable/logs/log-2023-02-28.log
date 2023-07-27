@@ -1,0 +1,55 @@
+CRITICAL - 2023-02-28 13:42:41 --> dashboard
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(842): CodeIgniter\CodeIgniter->Config\{closure}()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2023-02-28 13:42:47 --> dashboard
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(842): CodeIgniter\CodeIgniter->Config\{closure}()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2023-02-28 13:43:56 --> dashboard
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(842): CodeIgniter\CodeIgniter->Config\{closure}()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2023-02-28 13:43:59 --> dashboard
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(842): CodeIgniter\CodeIgniter->Config\{closure}()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2023-02-28 13:44:04 --> dashboard
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(842): CodeIgniter\CodeIgniter->Config\{closure}()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2023-02-28 13:44:31 --> 
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(842): CodeIgniter\CodeIgniter->Config\{closure}()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2023-02-28 13:44:36 --> 
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(842): CodeIgniter\CodeIgniter->Config\{closure}()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2023-02-28 13:44:49 --> 
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(842): CodeIgniter\CodeIgniter->Config\{closure}()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2023-02-28 13:44:50 --> 
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(842): CodeIgniter\CodeIgniter->Config\{closure}()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2023-02-28 13:46:44 --> 
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(842): CodeIgniter\CodeIgniter->Config\{closure}()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2023-02-28 13:46:46 --> 
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(842): CodeIgniter\CodeIgniter->Config\{closure}()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(44): CodeIgniter\CodeIgniter->run()
+#3 {main}

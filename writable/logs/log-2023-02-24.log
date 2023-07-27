@@ -1,0 +1,1 @@
+ERROR - 2023-02-24 17:37:29 --> Email: sendWithSmtp throwed fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known

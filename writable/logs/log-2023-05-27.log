@@ -1,0 +1,73 @@
+CRITICAL - 2023-05-27 12:39:28 --> Attempt to assign property 'createdonnn' of non-object
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Models/Reportmodel.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/ReportController.php(41): App\Models\Reportmodel->perpagedataifsearchforgroup()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\ReportController->reportdata_ajax()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-05-27 15:09:05 --> Call to a member function getonlycategories() on null
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\ReportController->listreports()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-05-27 15:14:13 --> Call to a member function getonlycategories() on null
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\ReportController->listreports()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-05-27 15:27:33 --> syntax error, unexpected '}'
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(790): class_exists()
+#5 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2023-05-27 15:57:40 --> Unknown column 'DISTINCT' in 'field list'
+CRITICAL - 2023-05-27 15:57:40 --> Call to a member function getResult() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/ReportController.php(29): App\Models\Reportmodel->ovehi()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\ReportController->listreports()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-05-27 16:00:00 --> Unknown column 'total' in 'field list'
+CRITICAL - 2023-05-27 16:00:00 --> Call to a member function getResult() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/ReportController.php(29): App\Models\Reportmodel->ovehi()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\ReportController->listreports()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-05-27 16:00:15 --> Unknown column 'total' in 'field list'
+ERROR - 2023-05-27 16:00:19 --> Unknown column 'total' in 'field list'
+ERROR - 2023-05-27 16:00:50 --> Unknown column 'total' in 'field list'
+CRITICAL - 2023-05-27 16:00:50 --> Call to undefined function App\Models\r()
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/ReportController.php(29): App\Models\Reportmodel->ovehi()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\ReportController->listreports()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-05-27 16:01:08 --> Unknown column 'total' in 'field list'
+ERROR - 2023-05-27 16:01:17 --> Unknown column 'total' in 'field list'
+ERROR - 2023-05-27 16:01:44 --> Unknown column 'DISTINCT' in 'field list'
+ERROR - 2023-05-27 16:01:46 --> Unknown column 'DISTINCT' in 'field list'
+ERROR - 2023-05-27 16:01:46 --> Unknown column 'DISTINCT' in 'field list'
+ERROR - 2023-05-27 16:01:50 --> Unknown column 'DISTINCT' in 'field list'
+ERROR - 2023-05-27 16:03:03 --> Unknown column 'DISTINCT' in 'field list'
+CRITICAL - 2023-05-27 16:03:03 --> Call to a member function getResult() on bool
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/ReportController.php(29): App\Models\Reportmodel->ovehi()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\ReportController->listreports()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-05-27 16:05:15 --> Unknown column 'DISTINCT' in 'field list'
+ERROR - 2023-05-27 16:05:31 --> Unknown column 'total' in 'field list'
+ERROR - 2023-05-27 16:06:21 --> Unknown column 'DISTINCT' in 'field list'

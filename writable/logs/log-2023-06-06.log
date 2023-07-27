@@ -1,0 +1,39 @@
+CRITICAL - 2023-06-06 10:51:18 --> Decrypting: authentication failed.
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/Encryption/Handlers/OpenSSLHandler.php(98): CodeIgniter\Encryption\Exceptions\EncryptionException::forAuthenticationFailed()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/BaseController.php(164): CodeIgniter\Encryption\Handlers\OpenSSLHandler->decrypt()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/Generateapi.php(83): App\Controllers\BaseController->customencrption()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Generateapi->generateapi()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-06-06 10:51:21 --> Decrypting: authentication failed.
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/Encryption/Handlers/OpenSSLHandler.php(98): CodeIgniter\Encryption\Exceptions\EncryptionException::forAuthenticationFailed()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/BaseController.php(164): CodeIgniter\Encryption\Handlers\OpenSSLHandler->decrypt()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/Generateapi.php(83): App\Controllers\BaseController->customencrption()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Generateapi->generateapi()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-06-06 10:51:33 --> Decrypting: authentication failed.
+#0 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/Encryption/Handlers/OpenSSLHandler.php(98): CodeIgniter\Encryption\Exceptions\EncryptionException::forAuthenticationFailed()
+#1 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/BaseController.php(164): CodeIgniter\Encryption\Handlers\OpenSSLHandler->decrypt()
+#2 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/app/Controllers/Generateapi.php(84): App\Controllers\BaseController->customencrption()
+#3 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(825): App\Controllers\Generateapi->generateapi()
+#4 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/vhosts/hosting.iptvbillingsolution.com/public/sbp/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-06-06 10:58:23 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-06 10:58:32 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-06 10:59:00 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-06 11:04:59 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-06 11:08:47 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-06 11:09:21 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-06 11:10:11 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-06 11:11:39 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-06 11:12:22 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-06 11:19:01 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-06 11:19:31 --> Unknown column 'text' in 'field list'
+ERROR - 2023-06-06 11:19:44 --> Unknown column 'text' in 'field list'
